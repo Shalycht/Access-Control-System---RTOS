@@ -1,0 +1,11 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:75:7:OSSemCreate	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:175:13:OSSemDel	56	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:329:13:OSSemPend	64	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:526:13:OSSemPendAbort	48	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:639:13:OSSemPost	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:747:7:OSSemSet	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:817:7:OS_SemClr	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:847:7:OS_SemDbgListAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:862:7:OS_SemDbgListRemove	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:909:7:OS_SemInit	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_sem.c:959:13:OS_SemPost	64	static

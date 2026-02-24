@@ -1,0 +1,6 @@
+../source/drivers/building.c:28:6:InitBuilding	8	static
+../source/drivers/building.c:35:6:setFloor	32	static
+../source/drivers/building.c:51:6:setExtra	16	static
+../source/drivers/building.c:59:16:calculateTopLeft	24	static
+../source/drivers/building.c:70:21:calculateBrightness	24	static
+../source/drivers/building.c:100:13:clearFloor	16	static

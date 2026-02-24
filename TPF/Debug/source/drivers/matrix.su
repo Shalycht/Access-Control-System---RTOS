@@ -1,0 +1,9 @@
+../source/drivers/matrix.c:41:6:InitMatrix	8	static
+../source/drivers/matrix.c:54:13:InitDutys	16	static
+../source/drivers/matrix.c:70:6:setPixel	32	static
+../source/drivers/matrix.c:96:6:setRow	24	static
+../source/drivers/matrix.c:109:6:setColumn	24	static
+../source/drivers/matrix.c:122:6:setAllPixels	24	static
+../source/drivers/matrix.c:132:6:clearMatrix	8	static
+../source/drivers/matrix.c:139:6:setSquare	24	static
+../source/drivers/matrix.c:156:13:setColor	16	static

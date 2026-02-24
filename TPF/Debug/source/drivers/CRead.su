@@ -1,0 +1,14 @@
+../source/drivers/CRead.c:135:6:cread_init	16	static
+../source/drivers/CRead.c:150:6:cread_reset	16	static
+../source/drivers/CRead.c:174:6:cread_askData	4	static
+../source/drivers/CRead.c:179:10:cread_getData	4	static
+../source/drivers/CRead.c:185:7:cread_getTrack	4	static
+../source/drivers/CRead.c:190:7:cread_getID	16	static
+../source/drivers/CRead.c:207:13:cread_getError	4	static
+../source/drivers/CRead.c:212:8:create_data	32	static
+../source/drivers/CRead.c:234:6:data_check_parity	24	static
+../source/drivers/CRead.c:243:6:check_track	16	static
+../source/drivers/CRead.c:286:6:cread_processData	24	static
+../source/drivers/CRead.c:311:6:pin_enable_IRQ	16	static
+../source/drivers/CRead.c:343:6:pin_clk_IRQ	16	static
+../source/drivers/CRead.c:390:6:cr_timeout_mark	8	static

@@ -1,0 +1,8 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:65:7:OS_TickTask	40	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:119:7:OS_TickTaskInit	64	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:190:7:OS_TickListInsert	40	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:293:7:OS_TickListInsertDly	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:359:7:OS_TickListRemove	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:418:7:OS_TickListResetPeak	4	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:438:17:OS_TickListUpdateDly	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tick.c:510:17:OS_TickListUpdateTimeout	40	static

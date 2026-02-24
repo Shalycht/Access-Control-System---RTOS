@@ -1,0 +1,15 @@
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:198:7:CPU_Init	8	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:241:7:CPU_SW_Exception	4	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:453:11:CPU_TS_Get32	16	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:588:7:CPU_TS_Update	4	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:630:18:CPU_TS_TmrFreqGet	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:681:7:CPU_TS_TmrFreqSet	16	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1200:11:CPU_CntLeadZeros08	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1267:11:CPU_CntLeadZeros16	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1340:11:CPU_CntLeadZeros32	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1427:11:CPU_CntLeadZeros64	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1706:11:CPU_CntTrailZeros08	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1810:11:CPU_CntTrailZeros16	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:1914:11:CPU_CntTrailZeros32	24	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:2018:11:CPU_CntTrailZeros64	48	static
+../source/rtos/uCOSIII/src/uC-CPU/cpu_core.c:2111:15:CPU_TS_Init	8	static

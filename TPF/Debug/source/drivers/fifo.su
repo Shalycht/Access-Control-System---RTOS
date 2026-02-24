@@ -1,0 +1,13 @@
+../source/drivers/fifo.c:17:11:FIFO_GetId	8	static
+../source/drivers/fifo.c:31:6:FIFO_IsBufferFull	16	static
+../source/drivers/fifo.c:37:6:FIFO_IsBufferEmpty	16	static
+../source/drivers/fifo.c:43:9:FIFO_WriteToBuffer	24	static
+../source/drivers/fifo.c:60:9:FIFO_ReadFromBuffer	24	static
+../source/drivers/fifo.c:76:9:FIFO_ReadAll	24	static
+../source/drivers/fifo.c:92:6:FIFO_PushToBuffer	16	static
+../source/drivers/fifo.c:121:6:FIFO_PullFromBuffer	24	static
+../source/drivers/fifo.c:160:9:FIFO_GetBufferLength	24	static
+../source/drivers/fifo.c:176:6:FIFO_Reset	16	static
+../source/drivers/fifo.c:182:6:FIFO_ClearBuffer	24	static
+../source/drivers/fifo.c:195:6:FIFO_FreeId	16	static
+../source/drivers/fifo.c:204:6:init_fifo	16	static

@@ -1,0 +1,7 @@
+../source/drivers/display_7s.c:46:6:increase_display_brightness	4	static
+../source/drivers/display_7s.c:55:6:decrease_display_brightness	4	static
+../source/drivers/display_7s.c:64:6:display_Init	32	static
+../source/drivers/display_7s.c:101:6:display_clean	16	static
+../source/drivers/display_7s.c:112:6:display_msg	32	static
+../source/drivers/display_7s.c:264:6:Timer_Message_Handler	4	static
+../source/drivers/display_7s.c:305:6:Timer_Display_Handler	16	static

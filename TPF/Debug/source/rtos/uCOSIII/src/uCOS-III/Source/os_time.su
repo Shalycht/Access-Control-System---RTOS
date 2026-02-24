@@ -1,0 +1,6 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:82:7:OSTimeDly	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:204:7:OSTimeDlyHMSM	40	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:355:7:OSTimeDlyResume	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:463:10:OSTimeGet	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:500:7:OSTimeSet	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_time.c:534:7:OSTimeTick	16	static

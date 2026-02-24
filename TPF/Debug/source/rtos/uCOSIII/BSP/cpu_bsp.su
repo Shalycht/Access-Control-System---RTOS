@@ -1,0 +1,3 @@
+../source/rtos/uCOSIII/BSP/cpu_bsp.c:157:7:CPU_TS_TmrInit	16	static
+../source/rtos/uCOSIII/BSP/cpu_bsp.c:255:13:CPU_TS_TmrRd	16	static
+../source/rtos/uCOSIII/BSP/cpu_bsp.c:324:13:CPU_TS32_to_uSec	40	static

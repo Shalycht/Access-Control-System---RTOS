@@ -1,0 +1,12 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:71:7:OSFlagCreate	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:167:13:OSFlagDel	56	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:334:11:OSFlagPend	80	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:822:11:OSFlagPendGetFlagsRdy	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:892:11:OSFlagPost	40	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1014:7:OS_FlagBlock	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1047:7:OS_FlagClr	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1081:7:OS_FlagInit	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1115:7:OS_FlagDbgListAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1130:7:OS_FlagDbgListRemove	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1203:11:OS_FlagPost	56	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_flag.c:1335:8:OS_FlagTaskRdy	24	static

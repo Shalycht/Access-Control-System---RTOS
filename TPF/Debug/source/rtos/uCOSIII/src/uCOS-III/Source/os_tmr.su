@@ -1,0 +1,15 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:115:7:OSTmrCreate	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:225:14:OSTmrDel	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:325:10:OSTmrRemainGet	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:433:14:OSTmrStart	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:545:11:OSTmrStateGet	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:633:14:OSTmrStop	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:742:7:OS_TmrClr	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:778:7:OS_TmrDbgListAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:792:7:OS_TmrDbgListRemove	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:842:7:OS_TmrInit	64	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:924:7:OS_TmrResetPeak	4	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:944:7:OS_TmrUnlink	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:986:7:OS_TmrTask	48	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:1059:15:OS_TmrLock	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_tmr.c:1080:15:OS_TmrUnlock	16	static

@@ -1,0 +1,7 @@
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:135:7:CPU_BitBandClr	24	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:177:7:CPU_BitBandSet	24	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:250:7:CPU_IntSrcDis	24	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:338:7:CPU_IntSrcEn	24	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:437:7:CPU_IntSrcPendClr	24	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:508:7:CPU_IntSrcPrioSet	32	static
+../source/rtos/uCOSIII/src/uC-CPU/ARM-Cortex-M4/GNU/cpu_c.c:638:13:CPU_IntSrcPrioGet	32	static

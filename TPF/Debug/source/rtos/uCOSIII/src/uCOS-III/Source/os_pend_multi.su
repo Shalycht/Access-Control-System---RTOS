@@ -1,0 +1,4 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_pend_multi.c:123:13:OSPendMulti	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_pend_multi.c:256:13:OS_PendMultiGetRdy	40	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_pend_multi.c:337:14:OS_PendMultiValidate	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_pend_multi.c:399:7:OS_PendMultiWait	40	static

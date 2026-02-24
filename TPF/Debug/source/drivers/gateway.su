@@ -1,0 +1,4 @@
+../source/drivers/gateway.c:22:6:GatewayInit	8	static
+../source/drivers/gateway.c:29:6:SendData2Gateway	24	static
+../source/drivers/gateway.c:47:6:SendKeepAlive	16	static
+../source/drivers/gateway.c:58:6:CheckGatewayResponse	16	static

@@ -1,0 +1,12 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:69:7:OSMutexCreate	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:173:13:OSMutexDel	64	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:347:7:OSMutexPend	64	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:696:7:OSMutexPost	56	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:847:7:OS_MutexClr	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:879:7:OS_MutexDbgListAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:894:7:OS_MutexDbgListRemove	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:941:7:OS_MutexInit	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:977:7:OS_MutexGrpAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:1002:7:OS_MutexGrpRemove	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:1032:10:OS_MutexGrpPrioFindHighest	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mutex.c:1075:7:OS_MutexGrpPostAll	48	static

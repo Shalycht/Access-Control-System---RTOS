@@ -1,0 +1,14 @@
+../SDK/CMSIS/core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+../source/drivers/uart.c:48:6:uartInit	40	static
+../source/drivers/uart.c:186:9:uartWriteMsg	24	static
+../source/drivers/uart.c:225:9:uartReadMsg	24	static
+../source/drivers/uart.c:268:9:uartIsRxMsg	24	static
+../source/drivers/uart.c:282:9:uartGetRxMsgLength	16	static
+../source/drivers/uart.c:289:6:uartIsTxMsgComplete	16	static
+../source/drivers/uart.c:296:13:IRQHandler	24	static
+../source/drivers/uart.c:344:9:UART0_RX_TX_IRQHandler	16	static
+../source/drivers/uart.c:349:9:UART1_RX_TX_IRQHandler	16	static
+../source/drivers/uart.c:354:9:UART2_RX_TX_IRQHandler	16	static
+../source/drivers/uart.c:359:9:UART3_RX_TX_IRQHandler	16	static
+../source/drivers/uart.c:364:9:UART4_RX_TX_IRQHandler	16	static
+../source/drivers/uart.c:370:13:setBaudrate	24	static

@@ -1,0 +1,4 @@
+../source/drivers/encoder.c:38:6:Encoder_Init	16	static
+../source/drivers/encoder.c:51:13:encoder_Read	4	static
+../source/drivers/encoder.c:78:6:timerOuts	16	static
+../source/drivers/encoder.c:133:6:timerSW	16	static

@@ -1,0 +1,4 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_stat.c:59:7:OSStatReset	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_stat.c:193:7:OSStatTaskCPUUsageInit	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_stat.c:283:7:OS_StatTask	72	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_stat.c:474:7:OS_StatTaskInit	64	static

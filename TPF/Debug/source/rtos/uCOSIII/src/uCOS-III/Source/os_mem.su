@@ -1,0 +1,5 @@
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mem.c:77:7:OSMemCreate	48	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mem.c:202:8:OSMemGet	24	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mem.c:271:7:OSMemPut	32	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mem.c:341:7:OS_MemDbgListAdd	16	static
+../source/rtos/uCOSIII/src/uCOS-III/Source/os_mem.c:370:7:OS_MemInit	16	static
