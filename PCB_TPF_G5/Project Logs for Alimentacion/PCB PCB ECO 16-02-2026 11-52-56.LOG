@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=DATA Pin=U2-61
-Added Pin To Net: NetName=DATA Pin=U2-84
-Added Member To Class: ClassName=Esquematico Member=Component C5 100nF
-Added Member To Class: ClassName=Esquematico Member=Component SW1
